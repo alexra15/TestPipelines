@@ -1,0 +1,14 @@
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\PipelinesTest.deps.json
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\PipelinesTest.runtimeconfig.json
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\PipelinesTest.runtimeconfig.dev.json
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\PipelinesTest.dll
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\bin\Debug\netcoreapp2.2\PipelinesTest.pdb
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\obj\Debug\netcoreapp2.2\PipelinesTest.csprojAssemblyReference.cache
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\obj\Debug\netcoreapp2.2\PipelinesTest.csproj.CoreCompileInputs.cache
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\obj\Debug\netcoreapp2.2\PipelinesTest.AssemblyInfoInputs.cache
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\obj\Debug\netcoreapp2.2\PipelinesTest.AssemblyInfo.cs
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\obj\Debug\netcoreapp2.2\PipelinesTest.dll
+C:\Users\bscfreyes\Documents\ProyectoGit\TestPipelines\PipelinesTest\obj\Debug\netcoreapp2.2\PipelinesTest.pdb
